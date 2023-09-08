@@ -21,4 +21,5 @@ Finetuned Model Script Applied on the Book: https://github.com/iamnmn9/theus.ai/
 	
 Book with concept by each page(can be changed by chapters/blog/videos etc): https://github.com/iamnmn9/theus.ai/blob/main/Bookwithconcept.csv
 
+LDA algorithm: https://github.com/iamnmn9/theus.ai/blob/main/LDA_topics.ipynb
 
